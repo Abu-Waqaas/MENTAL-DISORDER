@@ -7,6 +7,9 @@ This data was gotten from kaggle.
 # DATA PREPARATION.
 Two people worked on this dataset, the first person worked solely on the data cleaning aspect using Python, while I interfered in this process at the stage of analysis. This dataset was analysed uaing Power BI
 # ANALYSIS
+I analysed the data using Power BI.
+The visual is in PDF.
 # OBSERVATIONS
-# RECOMMENDATIONS
-
+I discovered Chizophrenia, Eating disorderliness and drug usage grow draastically over the years.
+Greenland, Morocco and Lesotho are the leading countries with highest depression rate
+Australia, Greenland and Iran are the leading countries in terms with drug use disorder.
